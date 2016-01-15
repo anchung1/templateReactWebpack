@@ -1,7 +1,11 @@
+
+
+
 module.exports = {
     //context: __dirname + '/src',
     entry: {
-        javascript: __dirname + '/src/app.js',
+        //javascript: __dirname + '/index.js',
+        javascript:__dirname + '/index.js',
         html: './index.html',
         css: './main.css'
     },
@@ -28,3 +32,5 @@ module.exports = {
         ]
     },
 };
+
+
