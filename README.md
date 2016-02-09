@@ -4,4 +4,6 @@ run this for auto compile without hot swapping: webpack --progress --colors --wa
 on browser, run from dist/index.html
 
 
+npm install
+dist/bower install
 
